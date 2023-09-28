@@ -1,16 +1,16 @@
 # Readme Generator
 
 ## Description
-* This application is a command-line that dynamically generates a professional README file from a user's input using Inquierer package.
+* This application is a command-line that dynamically generates a professional README file from a user's input using Inquirer package.
 
 ## Installation
 This application does not requires installation
 
 ## Usage
-This application allow users to create a proessional README.md file using their inputs.
+This application allow users to create a professional README.md file using their inputs.
 
 ## License
-This application is covered under the [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) MIT license.
+This application is covered under the [![License](https://img.shields.io/badge/RDAC-blue.svg)] RDAC license.
 
 
 ## Contributing

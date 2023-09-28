@@ -27,7 +27,7 @@ inquirer.prompt([
         type: 'list',
         name: 'license',
         message: 'Choose a license for your application:',
-        choices: ['MIT', 'Apache-2.0', 'GPL-3.0']
+        choices: ['MIT', 'Apache-2.0', 'GPL-3.0', 'RDAC']
       },
       {
         type: 'input',

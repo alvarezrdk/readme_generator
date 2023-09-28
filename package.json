@@ -1,14 +1,22 @@
 {
   "name": "static-site",
   "version": "1.0.0",
-  "description": "",
+  "description": "Automated Readme Generator",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "RDAC",
+  "license": "MIT",
   "dependencies": {
     "inquirer": "8.2.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alvarezrdk/readme_generator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alvarezrdk/readme_generator/issues"
+  },
+  "homepage": "https://github.com/alvarezrdk/readme_generator#readme"
 }
